@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Beranda - SD Negeri 7 Andowia</title>
+    <link rel="stylesheet" href="styles.css">
+    <script src="scripts.js" defer></script>
+</head>
+<body>
+<header>
+    <div class="menu-toggle" id="menu-toggle">
+        <div class="menu-bar"></div>
+        <div class="menu-bar"></div>
+        <div class="menu-bar"></div>
+    </div>
+    <h2>SD Negeri 7 Andowia</h2>
+    <nav>
+        <ul id="menu">
+            <h3><a href='/'>Beranda</a></h3>
+            <h3><a href='/akademik'>Akademik</a></h3>
+            <h3><a href='/siswa'>Siswa</a></h3>
+            <h3><a href='/guru'>Guru</a></h3>
+            <h3><a href='/kegiatan'>Kegiatan</a></h3>
+            <h3><a href='/kontak'>Kontak</a></h3>
+            <h3><a href='/informasi'>Informasi</a></h3>
+            <h3><a href='/galeri'>Galeri</a></h3>
+            <h3><a href='/pendaftaran'>Pendaftaran Online</a></h3>
+        </ul>
+    </nav>
+</header>
+    <main>
+        <section class="card">
+            <h1>Tentang Kami</h1>
+        </selection>
+        <section class="card">
+            <p>SD Negeri 7 Andowia adalah sekolah yang berkomitmen untuk memberikan pendidikan berkualitas kepada siswa. Kami memiliki visi untuk menjadi sekolah yang unggul dalam pendidikan di daerah kami.</p>
+            <p>Sejak didirikan pada tahun 1980, sekolah kami telah menorehkan berbagai prestasi di bidang akademik dan non-akademik. Kami berusaha untuk terus meningkatkan kualitas pembelajaran demi masa depan yang cerah bagi setiap siswa.</p>
+            <img src="img.jpg" alt="Sekolah">
+        </section>
+        <h1>Visi dan Misi</h1>
+        <section class="card">
+            <h1>Visi:</h1>
+            <p>Mewujudkan generasi penerus bangsa yang cerdas, beriman, dan berbudi pekerti luhur.</p>
+            <h1>Misi:</h1>
+            <ul>
+                <li>Mengembangkan potensi siswa secara optimal sesuai dengan minat, bakat, dan kemampuan.</li>
+                <li>Menyelenggarakan pendidikan berkualitas dan bermakna berbasis nilai-nilai keagamaan, kebangsaan, dan kemanusiaan.</li>
+                <li>Menumbuhkembangkan sikap mandiri, kreatif, dan inovatif dalam proses pembelajaran.</li>
+            </ul>
+        </section>
+        <section class="card">
+            <ul>
+                <li>Juara 1 Lomba Cerdas Cermat Tingkat Kabupaten sebanyak 3 kali berturut-turut.</li>
+                <li>Mendapatkan predikat Sekolah Adiwiyata Tingkat Mandiri dalam pengelolaan lingkungan hidup.</li>
+                <li>Meraih penghargaan Guru Berprestasi Tingkat Nasional.</li>
+            </ul>
+        </section>
+        <h1>Lokasi Sekolah</h1>
+        <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3983.245073177931!2d121.6639820143653!3d-3.659999097335295!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x2da3b3b0db08a7cd%3A0x8a7a32e3e97e6860!2sF49H%2BQ6M%2C%20Larobende%2C%20Kec.%20Andowia%2C%20Kabupaten%20Konawe%20Utara%2C%20Sulawesi%20Tenggara%2093353!5e0!3m2!1sen!2sid!4v1625242505378!5m2!1sen!2sid" width="100%" height="400" style="border:0;" allowfullscreen="" loading="lazy"></iframe>
+    </main>
+</body>
+</html>
